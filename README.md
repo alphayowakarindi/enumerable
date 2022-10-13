@@ -1,6 +1,6 @@
 # Enumarable
 
-> Project to implement how to use a module inside your class.
+> Project to implement how to use a module inside a class.
 
 
 ## Built With
