@@ -1,6 +1,6 @@
 module Enumerable
     def all?
-      list.all? { |num| num < 5 }
+      list.all? { |num| num >5 }
     end
   
     def any?
